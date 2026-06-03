@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <main className="min-h-screen flex items-center justify-center bg-[#FF0000] p-6">
+    <main className="min-h-screen flex items-center justify-center bg-[#6e1717] p-6">
       <div className="bg-[#F5F5F0] w-full max-w-2xl rounded-3xl p-12 shadow-2xl flex flex-col items-center text-center">
         {/* Navigation/Badge area */}
         <div className="bg-black text-white px-4 py-1 rounded-full text-sm mb-12">
